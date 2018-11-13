@@ -3,6 +3,8 @@
 > Library reference
 >
 > [HomePage](https://www.django-rest-framework.org/)
+>
+> [QuickStart](https://www.django-rest-framework.org/tutorial/quickstart/)
 
 ## Project setup
 
